@@ -1,0 +1,5 @@
+th{color: blue;}
+table{border-color: rgba(125, 126, 123, 0.405);border-collapse: collapse;border-width: thick;background-color:bisque;}
+#add{background-color:  rgb(40, 230, 40);border-width: 1px;}
+#remove{background-color:  red;border-width: 1px;}
+#move{background-color:  blue;border-width: 1px;}
